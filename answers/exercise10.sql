@@ -1,0 +1,1 @@
+SELECT Philadelphia, Trenton, City FROM Students;
